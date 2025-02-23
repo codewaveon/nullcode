@@ -26,6 +26,7 @@
     padding: 0.8em 150px;
     background-color: rgb(13, 22, 27); 
     border-bottom: 1px solid #222; 
+    gap: 2em;
   }
   
   .logo {
